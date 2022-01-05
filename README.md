@@ -1,4 +1,11 @@
 # kanban-app
+Проект kanban-доска
+Используется:
+Vue-CLI,
+Gulp,
+Bootstarp,
+SCSS
+
 
 ## Project setup
 ```
