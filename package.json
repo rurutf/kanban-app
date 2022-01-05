@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "gulp-cli": "^2.3.0",
     "register-service-worker": "^1.7.1",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
@@ -35,9 +36,28 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^7.0.0",
+    "gulp": "^4.0.2",
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
     "typescript": "~3.9.3",
     "vue-jest": "^5.0.0-0"
-  }
+  },
+  "description": "Проект kanban-доска",
+  "main": ".eslintrc.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rurutf/kanban-app.git"
+  },
+  "keywords": [
+    "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"
+  ],
+  "author": "inna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rurutf/kanban-app/issues"
+  },
+  "homepage": "https://github.com/rurutf/kanban-app#readme"
 }
